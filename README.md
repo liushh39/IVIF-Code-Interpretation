@@ -6,9 +6,8 @@ Provide a summary of deep learning-based infrared and visible image fusion (IVIF
 :running: **keep updating.** :running:  
 
 ## Content:
-1. <a href="#AE-based IVIF method"> AE-based IVIF method </a>
 
-# AE-based IVIF method <a id="AE-based IVIF method" class="anchor" href="AE-based IVIF method" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
+
 ## 1. AE-based IVIF method
 ### 2024
 [TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion](https://github.com/AWCXV/TextFusion) 🤗🤗🤗
