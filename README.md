@@ -6,10 +6,9 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 :running: **keep updating.** :running:  
 
 ## Content:
-[1. Survey](https://github.com/liushh39/IVIF-Code-Interpretation/edit/main/README.md#1-survey)
 
-[2](https://github.com/liushh39/IVIF-Code-Interpretation/edit/main/README.md#3-cnn-based-ivif-method)
-## 1. Survey
+
+# 1. Survey
  **Year** | **Title** 
  :-: | :-  
  **2023** | [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10088423) 🤗🤗
