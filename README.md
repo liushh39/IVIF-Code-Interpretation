@@ -1,14 +1,20 @@
 # IVIF-Code-Interpretation
 
-Provide a summary of deep learning-based infrared and visible image fusion (IVIF) and some vision algorithms for those in the field of image fusion and computer vision.<br> 
+Provide a summary of open-source deep learning-based infrared and visible image fusion (IVIF) and some vision algorithms for those in the field of image fusion and computer vision.<br> 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
 
 ## Content:
+[1. Survey](https://github.com/liushh39/IVIF-Code-Interpretation/edit/main/README.md#1-survey)
 
-
-## 1. AE-based IVIF method
+[2](https://github.com/liushh39/IVIF-Code-Interpretation/edit/main/README.md#3-cnn-based-ivif-method)
+## 1. Survey
+ **Year** | **Title** 
+ :-: | :-  
+ **2023** | [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10088423) 🤗🤗
+ **2023** | [基于深度学习的图像融合方法综述](http://www.cjig.cn//html/2023/1/20230102.htm) 🤗🤗
+## 2. AE-based IVIF method
  **Year** | **Title** 
  :-: | :-  
  **2024** | [TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion](https://github.com/AWCXV/TextFusion) 🤗🤗🤗
@@ -35,7 +41,7 @@ Provide a summary of deep learning-based infrared and visible image fusion (IVIF
  **2019** | [Densefuse: A Fusion Approach to Infrared and Visible Images](https://github.com/hli1221/imagefusion_densefuse) 🤗🤗
  **2018** | [Infrared and Visible Image Fusion using a Deep Learning Framework](https://github.com/hli1221/imagefusion_deeplearning)
 
-## 2. CNN-based IVIF method
+## 3. CNN-based IVIF method
 
  **Year** | **Title** 
  :-: | :-  
@@ -65,7 +71,7 @@ Provide a summary of deep learning-based infrared and visible image fusion (IVIF
  **2020** | [Rethinking the image fusion: A fast unified image fusion network based on proportional maintenance of gradient and intensity](https://github.com/HaoZhang1018/PMGI_AAAI2020)
  **2020** | [U2Fusion: A Unified Unsupervised Image Fusion Network](https://github.com/hanna-xu/U2Fusion) 🤗🤗
 
-## 3. GAN-based IVIF method
+## 4. GAN-based IVIF method
 
  **Year** | **Title** 
  :-: | :-  
@@ -81,10 +87,11 @@ Provide a summary of deep learning-based infrared and visible image fusion (IVIF
  **2019** | [FusionGAN: A generative adversarial network for infrared and visible image fusion](https://github.com/jiayi-ma/FusionGAN)
  **2019** | [DDcGAN:infrared and visible image fusion via dual-discriminator conditional generative adversarial network](https://github.com/hanna-xu/DDcGAN)
 
-## 4. Transformer-based IVIF method
+## 5. Transformer-based IVIF method
 
  **Year** | **Title** 
  :-: | :-  
+ **2023** | [PTET: A Progressive Token Exchanging Transformer for Infrared and Visible Image Fusion](https://github.com/frostcza/PTET)
  **2023** | [SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion](https://github.com/hli1221/SFPFusion)
  **2023** | [Rethinking the necessity of image fusion in high-level vision tasks: A practical infrared and visible image fusion network based on progressive semantic injection and scene fidelity](https://github.com/Linfeng-Tang/PSFusion)
  **2023** | [CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-CDDFuse) 🤗🤗🤗
@@ -96,7 +103,7 @@ Provide a summary of deep learning-based infrared and visible image fusion (IVIF
  **2022** | [Image fusion transformer](https://github.com/Vibashan/Image-Fusion-Transformer)
 
 
-## 5. Other novel IVIF model
+## 6. Other novel IVIF model
  **Year** | **Title** 
  :-: | :-  
  **2023** | [DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-DDFM) 🤗🤗🤗
@@ -104,5 +111,10 @@ Provide a summary of deep learning-based infrared and visible image fusion (IVIF
  **2023** | [Bi-level Dynamic Learning for Jointly Multi-modality Image Fusion and Beyond](https://github.com/LiuZhu-CV/BDLFusion) 🤗🤗🤗
  **2022** | [Fusion from Decomposition: A Self-Supervised Decomposition Approach for Image Fusion](https://github.com/erfect2020/DecompositionForFusion)
 
+## 7. Datasets
+[TNO](https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029), [RoadScene](https://github.com/hanna-xu/RoadScene), [M3FD](https://github.com/JinyuanLiu-CV/TarDAL), [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/), [MSRS](https://github.com/Linfeng-Tang/MSRS), [LLVIP](https://github.com/bupt-ai-cz/LLVIP),
+ [IVS](https://github.com/xiehousheng/IVS_data), [HDO](https://github.com/xiehousheng/IVS_data), [AVIID](https://github.com/silver-hzh/Averial-visible-to-infrared-image-translation),
 
+## 8. Evaluation
+[Excellent code](https://github.com/Linfeng-Tang/Evaluation-for-Image-Fusion)
 ## Thanks to the above authors for their excellent work！🤗🤗
