@@ -1,4 +1,5 @@
 # IVIF-Code-Interpretation
+<img alt="Static Badge" src="https://img.shields.io/badge/Image%20fusion-green"> <img alt="Static Badge" src="https://img.shields.io/badge/Infrared--visible-red">
 
 Provide a summary of open-source deep learning-based infrared and visible image fusion (IVIF) and some vision algorithms for those in the field of image fusion and computer vision.<br> 
 (**Survey, Code, Dataset, Evaluation and more**).
