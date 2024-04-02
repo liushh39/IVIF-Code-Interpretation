@@ -17,7 +17,6 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 ## 2. AE-based IVIF method
  **Year** | **Title** 
  :-: | :-  
- **2024** | [SFCFusion: Spatial–Frequency Collaborative Infrared and Visible Image Fusion](https://github.com/ChenHanrui430/SFCFusion)
  **2024** | [TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion](https://github.com/AWCXV/TextFusion) 🤗🤗🤗
  **2023** | [LRRNet: A Novel Representation Learning Guided Fusion Framework for Infrared and Visible Images](https://github.com/hli1221/imagefusion-LRRNet) 🤗🤗🤗
  **2023** | [MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion](https://github.com/hanna-xu/MURF)
@@ -108,6 +107,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 ## 6. Other novel IVIF model
  **Year** | **Title** 
  :-: | :-  
+ **2024** | [SFCFusion: Spatial–Frequency Collaborative Infrared and Visible Image Fusion](https://github.com/ChenHanrui430/SFCFusion)
  **2023** | [DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-DDFM) 🤗🤗🤗
  **2023** | [A Task-guided, Implicitly-searched and Meta- initialized Deep Model for Image Fusion](https://github.com/LiuZhu-CV/TIMFusion) 🤗🤗🤗
  **2023** | [Bi-level Dynamic Learning for Jointly Multi-modality Image Fusion and Beyond](https://github.com/LiuZhu-CV/BDLFusion) 🤗🤗🤗
