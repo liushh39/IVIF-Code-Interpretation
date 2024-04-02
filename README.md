@@ -5,7 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
-🚩**2024.4.2 Add MTDFusion, SFCFusion.** <br>
+🚩**2024.4.2 Add MTDFusion, SFCFusion, MetaFusion.** <br>
 ## Content:
 
 
@@ -111,6 +111,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2023** | [DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-DDFM) 🤗🤗🤗
  **2023** | [A Task-guided, Implicitly-searched and Meta- initialized Deep Model for Image Fusion](https://github.com/LiuZhu-CV/TIMFusion) 🤗🤗🤗
  **2023** | [Bi-level Dynamic Learning for Jointly Multi-modality Image Fusion and Beyond](https://github.com/LiuZhu-CV/BDLFusion) 🤗🤗🤗
+ **2023** | [MetaFusion: Infrared and Visible Image Fusion via Meta-Feature Embedding from Object Detection](https://github.com/wdzhao123/MetaFusion)
  **2022** | [Fusion from Decomposition: A Self-Supervised Decomposition Approach for Image Fusion](https://github.com/erfect2020/DecompositionForFusion)
 
 ## 7. Datasets
