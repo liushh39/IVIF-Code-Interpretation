@@ -5,7 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
-
+🚩**2024.4.2 Add MTDFusion, SFCFusion.** <br>
 ## Content:
 
 
@@ -17,6 +17,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 ## 2. AE-based IVIF method
  **Year** | **Title** 
  :-: | :-  
+ **2024** | [SFCFusion: Spatial–Frequency Collaborative Infrared and Visible Image Fusion](https://github.com/ChenHanrui430/SFCFusion)
  **2024** | [TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion](https://github.com/AWCXV/TextFusion) 🤗🤗🤗
  **2023** | [LRRNet: A Novel Representation Learning Guided Fusion Framework for Infrared and Visible Images](https://github.com/hli1221/imagefusion-LRRNet) 🤗🤗🤗
  **2023** | [MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion](https://github.com/hanna-xu/MURF)
@@ -45,6 +46,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 
  **Year** | **Title** 
  :-: | :-  
+ **2023** | [MTDFusion: A Multilayer Triple Dense Network for Infrared and Visible Image Fusion](https://github.com/tgg-77/MTDFusion)
  **2023** | [LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion](https://github.com/hli1221/LE2Fusion)
  **2023** | [Multi-interactive Feature Learning and a Full-time Multi-modality Benchmark for Image Fusion and Segmentation](https://github.com/JinyuanLiu-CV/SegMiF) 🤗🤗🤗
  **2023** | [LDRepFM: A Real-Time End-to-End Visible and Infrared Image Fusion Model Based on Layer Decomposition and Re-Parameterization](https://github.com/luming1314/LDRepFM)
