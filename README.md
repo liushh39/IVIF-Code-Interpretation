@@ -120,4 +120,6 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 
 ## 8. Evaluation
 [Excellent code](https://github.com/Linfeng-Tang/Evaluation-for-Image-Fusion)
+
+If you have any other questions about the IVIF, please email liushh39@mail2.sysu.edu.cn !!!
 ## Thanks to the above authors for their excellent work！🤗🤗
