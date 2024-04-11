@@ -6,6 +6,9 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 
 :running: **keep updating.** :running:  
 🚩**2024.4.2 Add MTDFusion, SFCFusion, MetaFusion.** <br>
+🚩**2024.4.11 Add some clarifications.** <br>
+## Reprinted please specify the source~
+[https://github.com/liushh39](https://github.com/liushh39)
 ## Content:
 
 
@@ -122,4 +125,6 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 [Excellent code](https://github.com/Linfeng-Tang/Evaluation-for-Image-Fusion)
 
 If you have any other questions about the IVIF, please email liushh39@mail2.sysu.edu.cn !!!
+## Reprinted please specify the source~
+[https://github.com/liushh39](https://github.com/liushh39)
 ## Thanks to the above authors for their excellent work！🤗🤗
