@@ -7,6 +7,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 :running: **keep updating.** :running:  
 🚩**2024.4.2 Add MTDFusion, SFCFusion, MetaFusion.** <br>
 🚩**2024.4.11 Add some clarifications.** <br>
+🚩**2024.4.18 Add a general image fusion framework using multi-task semi-supervised learning** <br>
 ## Reprinted please specify the source~
 [https://github.com/liushh39](https://github.com/liushh39)
 ## Content:
@@ -110,6 +111,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 ## 6. Other novel IVIF model
  **Year** | **Title** 
  :-: | :-  
+ **2024** | [A general image fusion framework using multi-task semi-supervised learning](https://github.com/wwhappylife/A-general-image-fusion-framework-using-multi-task-semi-supervised-learning) 🤗🤗🤗🤗
  **2024** | [SFCFusion: Spatial–Frequency Collaborative Infrared and Visible Image Fusion](https://github.com/ChenHanrui430/SFCFusion)
  **2023** | [DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-DDFM) 🤗🤗🤗
  **2023** | [A Task-guided, Implicitly-searched and Meta- initialized Deep Model for Image Fusion](https://github.com/LiuZhu-CV/TIMFusion) 🤗🤗🤗
