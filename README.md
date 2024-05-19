@@ -8,6 +8,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 🚩**2024.4.2 Add MTDFusion, SFCFusion, MetaFusion.** <br>
 🚩**2024.4.11 Add some clarifications.** <br>
 🚩**2024.4.18 Add a general image fusion framework using multi-task semi-supervised learning** <br>
+🚩**2024.5.19 Add Text-IF, Diff-IF, TC-MoA, and MMIF-EMMA** <br>
 ## Reprinted please specify the source~
 [https://github.com/liushh39](https://github.com/liushh39)
 ## Content:
@@ -112,12 +113,17 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **Year** | **Title** 
  :-: | :-  
  **2024** | [A general image fusion framework using multi-task semi-supervised learning](https://github.com/wwhappylife/A-general-image-fusion-framework-using-multi-task-semi-supervised-learning) 🤗🤗🤗🤗
+ **2024** | [Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion](https://github.com/XunpengYi/Text-IF) 🤗🤗🤗🤗
+ **2024** | [Diff-IF: Multi-modality image fusion via diffusion model with fusion knowledge prior](https://github.com/XunpengYi/Diff-IF) 🤗🤗🤗🤗
+ **2024** | [Task-Customized Mixture of Adapters for General Image Fusion](https://github.com/YangSun22/TC-MoA)
+ **2024** | [Equivariant Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-EMMA)
  **2024** | [SFCFusion: Spatial–Frequency Collaborative Infrared and Visible Image Fusion](https://github.com/ChenHanrui430/SFCFusion)
  **2023** | [DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-DDFM) 🤗🤗🤗
  **2023** | [A Task-guided, Implicitly-searched and Meta- initialized Deep Model for Image Fusion](https://github.com/LiuZhu-CV/TIMFusion) 🤗🤗🤗
  **2023** | [Bi-level Dynamic Learning for Jointly Multi-modality Image Fusion and Beyond](https://github.com/LiuZhu-CV/BDLFusion) 🤗🤗🤗
  **2023** | [MetaFusion: Infrared and Visible Image Fusion via Meta-Feature Embedding from Object Detection](https://github.com/wdzhao123/MetaFusion)
  **2022** | [Fusion from Decomposition: A Self-Supervised Decomposition Approach for Image Fusion](https://github.com/erfect2020/DecompositionForFusion)
+
 
 ## 7. Datasets
 [TNO](https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029), [RoadScene](https://github.com/hanna-xu/RoadScene), [M3FD](https://github.com/JinyuanLiu-CV/TarDAL), [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/), [MSRS](https://github.com/Linfeng-Tang/MSRS), [LLVIP](https://github.com/bupt-ai-cz/LLVIP),
