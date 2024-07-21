@@ -5,10 +5,12 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
-🚩**2024.4.2 Add MTDFusion, SFCFusion, MetaFusion.** <br>
-🚩**2024.4.11 Add some clarifications.** <br>
-🚩**2024.4.18 Add a general image fusion framework using multi-task semi-supervised learning** <br>
+🚩**2024.7.21 Add AGMFusion (A great work!!!!)** <br>
 🚩**2024.5.19 Add Text-IF, Diff-IF, TC-MoA, and MMIF-EMMA** <br>
+🚩**2024.4.18 Add a general image fusion framework using multi-task semi-supervised learning** <br>
+🚩**2024.4.11 Add some clarifications.** <br>
+🚩**2024.4.2 Add MTDFusion, SFCFusion, MetaFusion.** <br>
+
 ## Reprinted please specify the source~
 [https://github.com/liushh39](https://github.com/liushh39)
 ## Content:
@@ -19,7 +21,24 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  :-: | :-  
  **2023** | [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10088423) 🤗🤗
  **2023** | [基于深度学习的图像融合方法综述](http://www.cjig.cn//html/2023/1/20230102.htm) 🤗🤗
-## 2. AE-based IVIF method
+
+## 2. Latest or novel IVIF model
+ **Year** | **Title** 
+ :-: | :-  
+ **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) 🤗🤗🤗🤗🤗
+ **2024** | [A general image fusion framework using multi-task semi-supervised learning](https://github.com/wwhappylife/A-general-image-fusion-framework-using-multi-task-semi-supervised-learning) 🤗🤗🤗🤗
+ **2024** | [Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion](https://github.com/XunpengYi/Text-IF) 🤗🤗🤗🤗
+ **2024** | [Diff-IF: Multi-modality image fusion via diffusion model with fusion knowledge prior](https://github.com/XunpengYi/Diff-IF) 🤗🤗🤗🤗
+ **2024** | [Task-Customized Mixture of Adapters for General Image Fusion](https://github.com/YangSun22/TC-MoA)
+ **2024** | [Equivariant Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-EMMA)
+ **2024** | [SFCFusion: Spatial–Frequency Collaborative Infrared and Visible Image Fusion](https://github.com/ChenHanrui430/SFCFusion)
+ **2023** | [DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-DDFM) 🤗🤗🤗
+ **2023** | [A Task-guided, Implicitly-searched and Meta- initialized Deep Model for Image Fusion](https://github.com/LiuZhu-CV/TIMFusion) 🤗🤗🤗
+ **2023** | [Bi-level Dynamic Learning for Jointly Multi-modality Image Fusion and Beyond](https://github.com/LiuZhu-CV/BDLFusion) 🤗🤗🤗
+ **2023** | [MetaFusion: Infrared and Visible Image Fusion via Meta-Feature Embedding from Object Detection](https://github.com/wdzhao123/MetaFusion)
+ **2022** | [Fusion from Decomposition: A Self-Supervised Decomposition Approach for Image Fusion](https://github.com/erfect2020/DecompositionForFusion)
+ 
+## 3. AE-based IVIF method
  **Year** | **Title** 
  :-: | :-  
  **2024** | [TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion](https://github.com/AWCXV/TextFusion) 🤗🤗🤗
@@ -46,7 +65,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2019** | [Densefuse: A Fusion Approach to Infrared and Visible Images](https://github.com/hli1221/imagefusion_densefuse) 🤗🤗
  **2018** | [Infrared and Visible Image Fusion using a Deep Learning Framework](https://github.com/hli1221/imagefusion_deeplearning)
 
-## 3. CNN-based IVIF method
+## 4. CNN-based IVIF method
 
  **Year** | **Title** 
  :-: | :-  
@@ -77,7 +96,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2020** | [Rethinking the image fusion: A fast unified image fusion network based on proportional maintenance of gradient and intensity](https://github.com/HaoZhang1018/PMGI_AAAI2020)
  **2020** | [U2Fusion: A Unified Unsupervised Image Fusion Network](https://github.com/hanna-xu/U2Fusion) 🤗🤗
 
-## 4. GAN-based IVIF method
+## 5. GAN-based IVIF method
 
  **Year** | **Title** 
  :-: | :-  
@@ -93,7 +112,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2019** | [FusionGAN: A generative adversarial network for infrared and visible image fusion](https://github.com/jiayi-ma/FusionGAN)
  **2019** | [DDcGAN:infrared and visible image fusion via dual-discriminator conditional generative adversarial network](https://github.com/hanna-xu/DDcGAN)
 
-## 5. Transformer-based IVIF method
+## 6. Transformer-based IVIF method
 
  **Year** | **Title** 
  :-: | :-  
@@ -109,20 +128,6 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2022** | [Image fusion transformer](https://github.com/Vibashan/Image-Fusion-Transformer)
 
 
-## 6. Other novel IVIF model
- **Year** | **Title** 
- :-: | :-  
- **2024** | [A general image fusion framework using multi-task semi-supervised learning](https://github.com/wwhappylife/A-general-image-fusion-framework-using-multi-task-semi-supervised-learning) 🤗🤗🤗🤗
- **2024** | [Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion](https://github.com/XunpengYi/Text-IF) 🤗🤗🤗🤗
- **2024** | [Diff-IF: Multi-modality image fusion via diffusion model with fusion knowledge prior](https://github.com/XunpengYi/Diff-IF) 🤗🤗🤗🤗
- **2024** | [Task-Customized Mixture of Adapters for General Image Fusion](https://github.com/YangSun22/TC-MoA)
- **2024** | [Equivariant Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-EMMA)
- **2024** | [SFCFusion: Spatial–Frequency Collaborative Infrared and Visible Image Fusion](https://github.com/ChenHanrui430/SFCFusion)
- **2023** | [DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-DDFM) 🤗🤗🤗
- **2023** | [A Task-guided, Implicitly-searched and Meta- initialized Deep Model for Image Fusion](https://github.com/LiuZhu-CV/TIMFusion) 🤗🤗🤗
- **2023** | [Bi-level Dynamic Learning for Jointly Multi-modality Image Fusion and Beyond](https://github.com/LiuZhu-CV/BDLFusion) 🤗🤗🤗
- **2023** | [MetaFusion: Infrared and Visible Image Fusion via Meta-Feature Embedding from Object Detection](https://github.com/wdzhao123/MetaFusion)
- **2022** | [Fusion from Decomposition: A Self-Supervised Decomposition Approach for Image Fusion](https://github.com/erfect2020/DecompositionForFusion)
 
 
 ## 7. Datasets
