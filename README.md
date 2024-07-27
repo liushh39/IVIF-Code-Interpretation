@@ -23,7 +23,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2023** | [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10088423) 🤗🤗
  **2023** | [基于深度学习的图像融合方法综述](http://www.cjig.cn//html/2023/1/20230102.htm) 🤗🤗
 
-## 2. Latest or novel IVIF model
+## 2. Latest or novel IVIF method
  **Year** | **Title** 
  :-: | :-  
  **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) 🤗🤗🤗🤗🤗
