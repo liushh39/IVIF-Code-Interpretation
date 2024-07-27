@@ -134,11 +134,11 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 ## 7. Mamba-based IVIF method
  **2024** | [MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion](https://github.com/Lizhe1228/MambaDFuse)
 
-## 7. Datasets
+## 8. Datasets
 [TNO](https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029), [RoadScene](https://github.com/hanna-xu/RoadScene), [M3FD](https://github.com/JinyuanLiu-CV/TarDAL), [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/), [MSRS](https://github.com/Linfeng-Tang/MSRS), [LLVIP](https://github.com/bupt-ai-cz/LLVIP),
  [IVS](https://github.com/xiehousheng/IVS_data), [HDO](https://github.com/xiehousheng/IVS_data), [AVIID](https://github.com/silver-hzh/Averial-visible-to-infrared-image-translation),
 
-## 8. Evaluation
+## 9. Evaluation
 [Excellent code](https://github.com/Linfeng-Tang/Evaluation-for-Image-Fusion)
 
 If you have any other questions about the IVIF, please email liushh39@mail2.sysu.edu.cn !!!
