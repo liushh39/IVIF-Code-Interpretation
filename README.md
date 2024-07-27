@@ -5,6 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
+🚩**2024.7.27 Add SimpleFusion, SHIP (CVPR 2024), FISCNet, MambaDFuse** <br>
 🚩**2024.7.21 Add AGMFusion (A great work!!!!)** <br>
 🚩**2024.5.19 Add Text-IF, Diff-IF, TC-MoA, and MMIF-EMMA** <br>
 🚩**2024.4.18 Add a general image fusion framework using multi-task semi-supervised learning** <br>
@@ -26,6 +27,8 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **Year** | **Title** 
  :-: | :-  
  **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) 🤗🤗🤗🤗🤗
+ **2024** | [Probing Synergistic High-Order Interaction in Infrared and Visible Image Fusion](https://github.com/zheng980629/SHIP)
+ **2024** | [Frequency Integration and Spatial Compensation Network for Infrared and Visible Image Fusion](https://github.com/zheng980629/FISCNet)
  **2024** | [A general image fusion framework using multi-task semi-supervised learning](https://github.com/wwhappylife/A-general-image-fusion-framework-using-multi-task-semi-supervised-learning) 🤗🤗🤗🤗
  **2024** | [Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion](https://github.com/XunpengYi/Text-IF) 🤗🤗🤗🤗
  **2024** | [Diff-IF: Multi-modality image fusion via diffusion model with fusion knowledge prior](https://github.com/XunpengYi/Diff-IF) 🤗🤗🤗🤗
@@ -69,6 +72,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 
  **Year** | **Title** 
  :-: | :-  
+ **2024** | [SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images](https://github.com/hxwxss/SimpleFusion-A-Simple-Fusion-Framework-for-Infrared-and-Visible-Images)
  **2023** | [MTDFusion: A Multilayer Triple Dense Network for Infrared and Visible Image Fusion](https://github.com/tgg-77/MTDFusion)
  **2023** | [LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion](https://github.com/hli1221/LE2Fusion)
  **2023** | [Multi-interactive Feature Learning and a Full-time Multi-modality Benchmark for Image Fusion and Segmentation](https://github.com/JinyuanLiu-CV/SegMiF) 🤗🤗🤗
@@ -127,8 +131,8 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2022** | [SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer](https://github.com/Linfeng-Tang/SwinFusion)
  **2022** | [Image fusion transformer](https://github.com/Vibashan/Image-Fusion-Transformer)
 
-
-
+## 7. Mamba-based IVIF method
+ **2024** | [MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion](https://github.com/Lizhe1228/MambaDFuse)
 
 ## 7. Datasets
 [TNO](https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029), [RoadScene](https://github.com/hanna-xu/RoadScene), [M3FD](https://github.com/JinyuanLiu-CV/TarDAL), [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/), [MSRS](https://github.com/Linfeng-Tang/MSRS), [LLVIP](https://github.com/bupt-ai-cz/LLVIP),
