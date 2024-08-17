@@ -5,6 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
+🚩**2024.8.17 Add MMDRFuse (ACM 2024)** <br>
 🚩**2024.8.4 Add FILM (ICML 2024)** <br>
 🚩**2024.7.27 Add SimpleFusion, SHIP (CVPR 2024), FISCNet, MambaDFuse** <br>
 🚩**2024.7.21 Add AGMFusion (A great work!!!!)** <br>
@@ -28,6 +29,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **Year** | **Title** 
  :-: | :-  
  **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) 🤗🤗🤗🤗🤗
+ **2024** | [MMDRFuse: Distilled Mini-Model with Dynamic Refresh for Multi-Modality Image Fusion](https://github.com/yanglinDeng/MMDRFuse) 🤗🤗🤗🤗
  **2024** | [FILM: image Fusion via vIsion-Language Model](https://github.com/Zhaozixiang1228/IF-FILM)
  **2024** | [Probing Synergistic High-Order Interaction in Infrared and Visible Image Fusion](https://github.com/zheng980629/SHIP)
  **2024** | [Frequency Integration and Spatial Compensation Network for Infrared and Visible Image Fusion](https://github.com/zheng980629/FISCNet)
@@ -134,6 +136,8 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2022** | [Image fusion transformer](https://github.com/Vibashan/Image-Fusion-Transformer)
 
 ## 7. Mamba-based IVIF method
+ **Year** | **Title** 
+ :-: | :-  
  **2024** | [MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion](https://github.com/Lizhe1228/MambaDFuse)
 
 ## 8. Datasets
