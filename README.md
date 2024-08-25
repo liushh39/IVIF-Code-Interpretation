@@ -1,18 +1,19 @@
-# IVIF-Code-Interpretation
+# 🔥IVIF-Code-Interpretation
 <img alt="Static Badge" src="https://img.shields.io/badge/Image%20fusion-green"> <img alt="Static Badge" src="https://img.shields.io/badge/Infrared--visible-red">
 
 Provide a summary of open-source deep learning-based infrared and visible image fusion (IVIF) and some vision algorithms for those in the field of image fusion and computer vision.<br> 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
-🚩**2024.8.17 Add MMDRFuse (ACM 2024)** <br>
-🚩**2024.8.4 Add FILM (ICML 2024)** <br>
-🚩**2024.7.27 Add SimpleFusion, SHIP (CVPR 2024), FISCNet, MambaDFuse** <br>
-🚩**2024.7.21 Add AGMFusion (A great work!!!!)** <br>
-🚩**2024.5.19 Add Text-IF, Diff-IF, TC-MoA, and MMIF-EMMA** <br>
-🚩**2024.4.18 Add a general image fusion framework using multi-task semi-supervised learning** <br>
-🚩**2024.4.11 Add some clarifications.** <br>
-🚩**2024.4.2 Add MTDFusion, SFCFusion, MetaFusion.** <br>
+🚩 **`2024.8.25` Add DUGAN, MVSFusion** <br>
+🚩 **`2024.8.17` Add MMDRFuse (ACM 2024)** <br>
+🚩 **`2024.8.4` Add FILM (ICML 2024)** <br>
+🚩 **`2024.7.27` Add SimpleFusion, SHIP (CVPR 2024), FISCNet, MambaDFuse** <br>
+🚩 **`2024.7.21` Add AGMFusion (A great work!!!!)** <br>
+🚩 **`2024.5.19` Add Text-IF, Diff-IF, TC-MoA, and MMIF-EMMA** <br>
+🚩 **`2024.4.18` Add a general image fusion framework using multi-task semi-supervised learning** <br>
+🚩 **`2024.4.11` Add some clarifications.** <br>
+🚩 **`2024.4.2` Add MTDFusion, SFCFusion, MetaFusion.** <br>
 
 ## Reprinted please specify the source~
 [https://github.com/liushh39](https://github.com/liushh39)
@@ -29,6 +30,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **Year** | **Title** 
  :-: | :-  
  **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) 🤗🤗🤗🤗🤗
+ **2024** | [MVSFusion: infrared and visible image fusion method for multiple visual scenarios](https://github.com/VCMHE/MVSFusion) 
  **2024** | [MMDRFuse: Distilled Mini-Model with Dynamic Refresh for Multi-Modality Image Fusion](https://github.com/yanglinDeng/MMDRFuse) 🤗🤗🤗🤗
  **2024** | [FILM: image Fusion via vIsion-Language Model](https://github.com/Zhaozixiang1228/IF-FILM)
  **2024** | [Probing Synergistic High-Order Interaction in Infrared and Visible Image Fusion](https://github.com/zheng980629/SHIP)
@@ -108,6 +110,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 
  **Year** | **Title** 
  :-: | :-  
+ **2024** | [DUGAN: Infrared and Visible Image Fusion Based on Dual Fusion Paths and a U-type Discriminator](https://github.com/chang-le-11/DUGAN)
  **2023** | [A Cross-scale Iterative Attentional Adversarial Fusion Network for Infrared and Visible Images](https://github.com/Zhishe-Wang/CrossFuse)
  **2023** | [Infrared and Visible Image Fusion Based on Multiclassification Adversarial Mechanism in Feature Space](https://github.com/HaoZhang1018/MAMFS-for-infrared-visible-fusion)
  **2022** | [Target-aware Dual Adversarial Learning and a Multi-scenario Multi-Modality Benchmark to Fuse Infrared and Visible for Object Detection](https://github.com/JinyuanLiu-CV/TarDAL) 🤗🤗
