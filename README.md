@@ -5,6 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
+🚩 **`2024.12.3` Add CEFusion** <br>
 🚩 **`2024.8.25` Add DUGAN, MVSFusion** <br>
 🚩 **`2024.8.17` Add MMDRFuse (ACM 2024)** <br>
 🚩 **`2024.8.4` Add FILM (ICML 2024)** <br>
@@ -78,6 +79,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 
  **Year** | **Title** 
  :-: | :-  
+ **2024** | [CEFusion: An Infrared and Visible Image Fusion Network Based on Cross-Modal Multi-Granularity Information Interaction and Edge Guidance](https://github.com/PZX0913/CEFusion)
  **2024** | [SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images](https://github.com/hxwxss/SimpleFusion-A-Simple-Fusion-Framework-for-Infrared-and-Visible-Images)
  **2023** | [MTDFusion: A Multilayer Triple Dense Network for Infrared and Visible Image Fusion](https://github.com/tgg-77/MTDFusion)
  **2023** | [LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion](https://github.com/hli1221/LE2Fusion)
