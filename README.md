@@ -5,6 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
+🚩 **`2024.12.9` Add GTMFuse** <br>
 🚩 **`2024.12.3` Add CEFusion** <br>
 🚩 **`2024.8.25` Add DUGAN, MVSFusion** <br>
 🚩 **`2024.8.17` Add MMDRFuse (ACM 2024)** <br>
@@ -129,6 +130,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 
  **Year** | **Title** 
  :-: | :-  
+ **2024** | [GTMFuse: Group-attention transformer-driven multiscale dense feature-enhanced network for infrared and visible image fusion](https://github.com/XingLongH/GTMFuse)
  **2023** | [PTET: A Progressive Token Exchanging Transformer for Infrared and Visible Image Fusion](https://github.com/frostcza/PTET)
  **2023** | [SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion](https://github.com/hli1221/SFPFusion)
  **2023** | [Rethinking the necessity of image fusion in high-level vision tasks: A practical infrared and visible image fusion network based on progressive semantic injection and scene fidelity](https://github.com/Linfeng-Tang/PSFusion)
