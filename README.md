@@ -32,13 +32,14 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **Year** | **Title** 
  :-: | :-  
  **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) 🤗🤗🤗🤗🤗
+ **2024** | [TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion](https://github.com/AWCXV/TextFusion) 🤗🤗🤗
+ **2024** | [Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion](https://github.com/XunpengYi/Text-IF) 🤗🤗🤗🤗
+ **2024** | [FILM: image Fusion via vIsion-Language Model](https://github.com/Zhaozixiang1228/IF-FILM)
  **2024** | [MVSFusion: infrared and visible image fusion method for multiple visual scenarios](https://github.com/VCMHE/MVSFusion) 
  **2024** | [MMDRFuse: Distilled Mini-Model with Dynamic Refresh for Multi-Modality Image Fusion](https://github.com/yanglinDeng/MMDRFuse) 🤗🤗🤗🤗
- **2024** | [FILM: image Fusion via vIsion-Language Model](https://github.com/Zhaozixiang1228/IF-FILM)
  **2024** | [Probing Synergistic High-Order Interaction in Infrared and Visible Image Fusion](https://github.com/zheng980629/SHIP)
  **2024** | [Frequency Integration and Spatial Compensation Network for Infrared and Visible Image Fusion](https://github.com/zheng980629/FISCNet)
  **2024** | [A general image fusion framework using multi-task semi-supervised learning](https://github.com/wwhappylife/A-general-image-fusion-framework-using-multi-task-semi-supervised-learning) 🤗🤗🤗🤗
- **2024** | [Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion](https://github.com/XunpengYi/Text-IF) 🤗🤗🤗🤗
  **2024** | [Diff-IF: Multi-modality image fusion via diffusion model with fusion knowledge prior](https://github.com/XunpengYi/Diff-IF) 🤗🤗🤗🤗
  **2024** | [Task-Customized Mixture of Adapters for General Image Fusion](https://github.com/YangSun22/TC-MoA)
  **2024** | [Equivariant Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-EMMA)
@@ -52,7 +53,6 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 ## 3. AE-based IVIF method
  **Year** | **Title** 
  :-: | :-  
- **2024** | [TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion](https://github.com/AWCXV/TextFusion) 🤗🤗🤗
  **2023** | [LRRNet: A Novel Representation Learning Guided Fusion Framework for Infrared and Visible Images](https://github.com/hli1221/imagefusion-LRRNet) 🤗🤗🤗
  **2023** | [MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion](https://github.com/hanna-xu/MURF)
  **2023** | [CoCoNet: Coupled Contrastive Learning Network with Multi-level Feature Ensemble for Multi-modality Image Fusion](https://github.com/runjia0124/CoCoNet)
