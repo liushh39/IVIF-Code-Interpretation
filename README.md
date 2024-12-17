@@ -5,6 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
+🚩 **`2024.12.17` Add TeRF(ACM Multimedia 2024)** <br>
 🚩 **`2024.12.9` Add GTMFuse** <br>
 🚩 **`2024.12.3` Add CEFusion** <br>
 🚩 **`2024.8.25` Add DUGAN, MVSFusion** <br>
@@ -35,6 +36,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2024** | [TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion](https://github.com/AWCXV/TextFusion) 🤗🤗🤗
  **2024** | [Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion](https://github.com/XunpengYi/Text-IF) 🤗🤗🤗🤗
  **2024** | [FILM: image Fusion via vIsion-Language Model](https://github.com/Zhaozixiang1228/IF-FILM)
+ **2024** | [TeRF: Text-driven and Region-aware Flexible Visible and Infrared Image Fusion](https://github.com/Baixuzx7/TeRF)
  **2024** | [MVSFusion: infrared and visible image fusion method for multiple visual scenarios](https://github.com/VCMHE/MVSFusion) 
  **2024** | [MMDRFuse: Distilled Mini-Model with Dynamic Refresh for Multi-Modality Image Fusion](https://github.com/yanglinDeng/MMDRFuse) 🤗🤗🤗🤗
  **2024** | [Probing Synergistic High-Order Interaction in Infrared and Visible Image Fusion](https://github.com/zheng980629/SHIP)
