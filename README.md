@@ -5,6 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
+🚩 **`2024.12.21` Add A2RNet(AAAI 2025)** <br>
 🚩 **`2024.12.17` Add TeRF(ACM Multimedia 2024)** <br>
 🚩 **`2024.12.9` Add GTMFuse** <br>
 🚩 **`2024.12.3` Add CEFusion** <br>
@@ -115,6 +116,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 
  **Year** | **Title** 
  :-: | :-  
+ **2025** | [A2RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion](https://github.com/lok-18/A2RNet)
  **2024** | [DUGAN: Infrared and Visible Image Fusion Based on Dual Fusion Paths and a U-type Discriminator](https://github.com/chang-le-11/DUGAN)
  **2023** | [A Cross-scale Iterative Attentional Adversarial Fusion Network for Infrared and Visible Images](https://github.com/Zhishe-Wang/CrossFuse)
  **2023** | [Infrared and Visible Image Fusion Based on Multiclassification Adversarial Mechanism in Feature Space](https://github.com/HaoZhang1018/MAMFS-for-infrared-visible-fusion)
