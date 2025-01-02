@@ -5,6 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
+🚩 **`2025.1.2` Add SRAFusion** <br>
 🚩 **`2024.12.21` Add A2RNet(AAAI 2025)** <br>
 🚩 **`2024.12.17` Add TeRF(ACM Multimedia 2024)** <br>
 🚩 **`2024.12.9` Add GTMFuse** <br>
@@ -51,6 +52,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2023** | [A Task-guided, Implicitly-searched and Meta- initialized Deep Model for Image Fusion](https://github.com/LiuZhu-CV/TIMFusion) 🤗🤗🤗
  **2023** | [Bi-level Dynamic Learning for Jointly Multi-modality Image Fusion and Beyond](https://github.com/LiuZhu-CV/BDLFusion) 🤗🤗🤗
  **2023** | [MetaFusion: Infrared and Visible Image Fusion via Meta-Feature Embedding from Object Detection](https://github.com/wdzhao123/MetaFusion)
+ **2023** | [SRAFusion: Semantic Region Adaptive Fusion of Infrared and Visible Images via Dual-DeepLab Guidance](https://github.com/WenziCao/SRAFusion)
  **2022** | [Fusion from Decomposition: A Self-Supervised Decomposition Approach for Image Fusion](https://github.com/erfect2020/DecompositionForFusion)
  
 ## 3. AE-based IVIF method
