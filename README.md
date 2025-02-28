@@ -5,6 +5,8 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
+🚩 **`2024.7.21` Add AGMFusion (A great work!!!!)** <br>
+🚩 **`2025.2.28` Add GIFNet (CVPR 2025)** <br>
 🚩 **`2025.1.2` Add SRAFusion** <br>
 🚩 **`2024.12.21` Add A2RNet(AAAI 2025)** <br>
 🚩 **`2024.12.17` Add TeRF(ACM Multimedia 2024)** <br>
@@ -14,7 +16,6 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 🚩 **`2024.8.17` Add MMDRFuse (ACM 2024)** <br>
 🚩 **`2024.8.4` Add FILM (ICML 2024)** <br>
 🚩 **`2024.7.27` Add SimpleFusion, SHIP (CVPR 2024), FISCNet, MambaDFuse** <br>
-🚩 **`2024.7.21` Add AGMFusion (A great work!!!!)** <br>
 🚩 **`2024.5.19` Add Text-IF, Diff-IF, TC-MoA, and MMIF-EMMA** <br>
 🚩 **`2024.4.18` Add a general image fusion framework using multi-task semi-supervised learning** <br>
 🚩 **`2024.4.11` Add some clarifications.** <br>
@@ -35,6 +36,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **Year** | **Title** 
  :-: | :-  
  **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) 🤗🤗🤗🤗🤗
+ **2025** | [GIFNet: One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion](https://github.com/AWCXV/GIFNet) 🤗🤗🤗🤗
  **2024** | [TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion](https://github.com/AWCXV/TextFusion) 🤗🤗🤗
  **2024** | [Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion](https://github.com/XunpengYi/Text-IF) 🤗🤗🤗🤗
  **2024** | [FILM: image Fusion via vIsion-Language Model](https://github.com/Zhaozixiang1228/IF-FILM)
