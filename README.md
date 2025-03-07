@@ -6,6 +6,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 
 :running: **keep updating.** :running:  
 🚩 **`2024.7.21` Add AGMFusion (A great work!!!!)** <br>
+🚩 **`2024.3.7` Add SAM-guided multi-level collaborative Transformer for infrared and visible image fusion** <br>
 🚩 **`2025.2.28` Add GIFNet (CVPR 2025)** <br>
 🚩 **`2025.1.2` Add SRAFusion** <br>
 🚩 **`2024.12.21` Add A2RNet(AAAI 2025)** <br>
@@ -37,6 +38,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  :-: | :-  
  **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) 🤗🤗🤗🤗🤗
  **2025** | [GIFNet: One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion](https://github.com/AWCXV/GIFNet) 🤗🤗🤗🤗
+ **2025** | [SAM-guided multi-level collaborative Transformer for infrared and visible image fusion](https://github.com/lxq-jnu/SpTFuse) 
  **2024** | [TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion](https://github.com/AWCXV/TextFusion) 🤗🤗🤗
  **2024** | [Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion](https://github.com/XunpengYi/Text-IF) 🤗🤗🤗🤗
  **2024** | [FILM: image Fusion via vIsion-Language Model](https://github.com/Zhaozixiang1228/IF-FILM)
