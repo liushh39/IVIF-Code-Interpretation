@@ -5,7 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
-🚩 **`2025.7.31` Add GrFormer** <br>
+🚩 **`2025.8.7` Add GrFormer and a survey!** <br>
 🚩 **`2025.7.31` Add GuideFuse, DDBFusion** <br>
 🚩 **`2025.7.22` Add CVPR2025** <br>
 🚩 **`2025.2.19` Add MaeFuse(TIP 2025)** <br>
@@ -36,6 +36,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 ## 1. Survey
  **Year** | **Title** 
  :-: | :-  
+ **2024** | [Infrared and Visible Image Fusion: From Data Compatibility to Task Adaption](https://ieeexplore.ieee.org/abstract/document/10812907)
  **2023** | [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10088423) 🤗🤗
  **2023** | [基于深度学习的图像融合方法综述](http://www.cjig.cn//html/2023/1/20230102.htm) 🤗🤗
 
