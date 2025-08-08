@@ -5,7 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
-🚩 **`2025.8.7` Add GrFormer and a survey!** <br>
+🚩 **`2025.8.7` Add GrFormer, PFCFuse, ITFuse, SDCFusion, SDSFusion, LENFsuion, PromptFusion, MDA and a survey!** <br>
 🚩 **`2025.7.31` Add GuideFuse, DDBFusion** <br>
 🚩 **`2025.7.22` Add CVPR2025** <br>
 🚩 **`2025.2.19` Add MaeFuse(TIP 2025)** <br>
@@ -54,12 +54,15 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2025** | [Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model](https://github.com/Leiii-Cao/Text-DiFuse) 
  **2025** | [A degradation-aware guided fusion network for infrared and visible image](https://github.com/wang-x-1997/DAFusion) 
  **2025** | [SAM-guided multi-level collaborative Transformer for infrared and visible image fusion](https://github.com/lxq-jnu/SpTFuse) 
+ **2025** | [SDSFusion: A Semantic-Aware Infrared and Visible Image Fusion Network for Degraded Scenes](https://github.com/Liling-yang/SDSFusion) 🤗🤗🤗 **(TIP 2025)**
  **2024** | [TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion](https://github.com/AWCXV/TextFusion) 🤗🤗🤗
  **2024** | [Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion](https://github.com/XunpengYi/Text-IF) 🤗🤗🤗🤗
+ **2024** | [LENFusion: A Joint Low-Light Enhancement and Fusion Network for Nighttime Infrared and Visible Image Fusion](https://github.com/Liling-yang/LENFsuion) 🤗🤗🤗
  **2024** | [FILM: image Fusion via vIsion-Language Model](https://github.com/Zhaozixiang1228/IF-FILM)
  **2024** | [TeRF: Text-driven and Region-aware Flexible Visible and Infrared Image Fusion](https://github.com/Baixuzx7/TeRF)
  **2024** | [MVSFusion: infrared and visible image fusion method for multiple visual scenarios](https://github.com/VCMHE/MVSFusion) 
  **2024** | [MMDRFuse: Distilled Mini-Model with Dynamic Refresh for Multi-Modality Image Fusion](https://github.com/yanglinDeng/MMDRFuse) 🤗🤗🤗🤗
+ **2024** | [MDA: A Multi-scale Information Integration Framework for Infrared and Visible Image Fusion](https://github.com/SSyangguang/MDA) 
  **2024** | [Probing Synergistic High-Order Interaction in Infrared and Visible Image Fusion](https://github.com/zheng980629/SHIP)
  **2024** | [Frequency Integration and Spatial Compensation Network for Infrared and Visible Image Fusion](https://github.com/zheng980629/FISCNet)
  **2024** | [A general image fusion framework using multi-task semi-supervised learning](https://github.com/wwhappylife/A-general-image-fusion-framework-using-multi-task-semi-supervised-learning) 🤗🤗🤗🤗
@@ -67,6 +70,8 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2024** | [Task-Customized Mixture of Adapters for General Image Fusion](https://github.com/YangSun22/TC-MoA)
  **2024** | [Equivariant Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-EMMA)
  **2024** | [SFCFusion: Spatial–Frequency Collaborative Infrared and Visible Image Fusion](https://github.com/ChenHanrui430/SFCFusion)
+ **2024** | [A semantic-driven coupled network for infrared and visible image fusion](https://github.com/XiaoW-Liu/SDCFusion)
+ **2024** | [PromptFusion: Harmonized Semantic Prompt Learning for Infrared and Visible Image Fusion](https://github.com/hey-it-s-me/PromptFusion) **(IEEE/CAA JAS 2024)**
  **2023** | [DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion](https://github.com/Zhaozixiang1228/MMIF-DDFM) 🤗🤗🤗
  **2023** | [A Task-guided, Implicitly-searched and Meta- initialized Deep Model for Image Fusion](https://github.com/LiuZhu-CV/TIMFusion) 🤗🤗🤗
  **2023** | [Bi-level Dynamic Learning for Jointly Multi-modality Image Fusion and Beyond](https://github.com/LiuZhu-CV/BDLFusion) 🤗🤗🤗
@@ -107,6 +112,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  :-: | :-  
  **2024** | [CEFusion: An Infrared and Visible Image Fusion Network Based on Cross-Modal Multi-Granularity Information Interaction and Edge Guidance](https://github.com/PZX0913/CEFusion)
  **2024** | [SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images](https://github.com/hxwxss/SimpleFusion-A-Simple-Fusion-Framework-for-Infrared-and-Visible-Images)
+ **2024** | [PFCFuse: A Poolformer and CNN fusion network for Infrared-Visible Image Fusion](https://github.com/HXY13/PFCFuse-Image-Fusion)
  **2023** | [GuideFuse: A Novel Guided Auto-Encoder Fusion Network for Infrared and Visible Images](https://github.com/Yukarizz/GuideFuse) 
  **2023** | [MTDFusion: A Multilayer Triple Dense Network for Infrared and Visible Image Fusion](https://github.com/tgg-77/MTDFusion)
  **2023** | [LE2Fusion: A novel local edge enhancement module for infrared and visible image fusion](https://github.com/hli1221/LE2Fusion)
@@ -158,6 +164,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **Year** | **Title** 
  :-: | :-  
  **2025** | [MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training](https://github.com/Henry-Lee-real/MaeFuse)
+ **2024** | [ITFuse: An interactive transformer for infrared and visible image fusion](https://github.com/tthinking/ITFuse)
  **2024** | [GTMFuse: Group-attention transformer-driven multiscale dense feature-enhanced network for infrared and visible image fusion](https://github.com/XingLongH/GTMFuse)
  **2023** | [PTET: A Progressive Token Exchanging Transformer for Infrared and Visible Image Fusion](https://github.com/frostcza/PTET)
  **2023** | [SFPFusion: An Improved Vision Transformer Combining Super Feature Attention and Wavelet-Guided Pooling for Infrared and Visible Images Fusion](https://github.com/hli1221/SFPFusion)
