@@ -49,7 +49,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2025** | [DCEvo: Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion](https://github.com/Beate-Suy-Zhang/DCEvo)**(CVPR 2025)**
  **2025** | [Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond](https://github.com/RollingPlain/SAGE_IVIF)**(CVPR 2025)**
  **2025** | [Task-driven Image Fusion with Learnable Fusion Loss](https://github.com/HaowenBai/TDFusion)**(CVPR 2025)**
- **2025** | [MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training](https://github.com/Henry-Lee-real/MaeFuse)
+ **2025** | [MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training](https://github.com/Henry-Lee-real/MaeFuse)🤗🤗🤗🤗 **(TIP 2025)**
  **2025** | [GIFNet: One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion](https://github.com/AWCXV/GIFNet) 🤗🤗🤗🤗 **(CVPR 2025)**
  **2025** | [Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model](https://github.com/Leiii-Cao/Text-DiFuse) 
  **2025** | [A degradation-aware guided fusion network for infrared and visible image](https://github.com/wang-x-1997/DAFusion) 
