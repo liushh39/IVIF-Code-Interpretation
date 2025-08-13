@@ -5,6 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
+🚩 **`2025.8.13` Add OmniFuse，PIDFusion** <br>
 🚩 **`2025.8.7` Add GrFormer, PFCFuse, ITFuse, SDCFusion, SDSFusion, LENFsuion, PromptFusion, MDA and a survey!** <br>
 🚩 **`2025.7.31` Add GuideFuse, DDBFusion** <br>
 🚩 **`2025.7.22` Add CVPR2025** <br>
@@ -44,6 +45,8 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **Year** | **Title** 
  :-: | :-  
  **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) 🤗🤗🤗🤗🤗
+ **2025** | [OmniFuse: Composite Degradation-Robust Image Fusion With Language-Driven Semantics](https://github.com/HaoZhang1018/OmniFuse)**(TPAMI 2025)**
+ **2025** | [PID Controller-Driven Network for Image Fusion](https://github.com/wang-x-1997/PIDFusion)**(TMM 2025)**
  **2025** | [GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion](https://github.com/Shaoyun2023/GrFormer)**(Imformation Fusion 2026)**
  **2025** | [DDBFusion: An unified image decomposition and fusion framework based on dual decomposition and B ́ezier curves](https://github.com/Yukarizz/DDBFusion)**(Imformation Fusion 2025)**
  **2025** | [DCEvo: Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion](https://github.com/Beate-Suy-Zhang/DCEvo)**(CVPR 2025)**
