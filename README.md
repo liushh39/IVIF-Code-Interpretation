@@ -82,7 +82,6 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 ## 3. AE-based IVIF method
  **Year** | **Title** 
  :-: | :-  
- **2025** | [MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training](https://github.com/Henry-Lee-real/MaeFuse)
  **2023** | [LRRNet: A Novel Representation Learning Guided Fusion Framework for Infrared and Visible Images](https://github.com/hli1221/imagefusion-LRRNet) 🤗🤗🤗
  **2023** | [MURF: Mutually Reinforcing Multi-modal Image Registration and Fusion](https://github.com/hanna-xu/MURF)
  **2023** | [CoCoNet: Coupled Contrastive Learning Network with Multi-level Feature Ensemble for Multi-modality Image Fusion](https://github.com/runjia0124/CoCoNet)
@@ -163,7 +162,6 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 
  **Year** | **Title** 
  :-: | :-  
- **2025** | [MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training](https://github.com/Henry-Lee-real/MaeFuse)
  **2024** | [ITFuse: An interactive transformer for infrared and visible image fusion](https://github.com/tthinking/ITFuse)
  **2024** | [GTMFuse: Group-attention transformer-driven multiscale dense feature-enhanced network for infrared and visible image fusion](https://github.com/XingLongH/GTMFuse)
  **2023** | [PTET: A Progressive Token Exchanging Transformer for Infrared and Visible Image Fusion](https://github.com/frostcza/PTET)
