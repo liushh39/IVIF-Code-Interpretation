@@ -49,7 +49,6 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2025** | [RPFNet: Residual Prior-driven Frequency-aware Network for Image Fusion](https://github.com/wang-x-1997/RPFNet)**(ACM MM 2025)**
  **2025** | [PID Controller-Driven Network for Image Fusion](https://github.com/wang-x-1997/PIDFusion)**(TMM 2025)** 🤗🤗🤗🤗
  **2025** | [RDMFuse: A Retinex Decomposition Model-Based Deep Framework for Infrared and Visible Image Fusion](https://github.com/wang-x-1997/RDMFuse)
- 
  **2025** | [GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion](https://github.com/Shaoyun2023/GrFormer)**(Imformation Fusion 2026)**
  **2025** | [DDBFusion: An unified image decomposition and fusion framework based on dual decomposition and B ́ezier curves](https://github.com/Yukarizz/DDBFusion)**(Imformation Fusion 2025)**
  **2025** | [DCEvo: Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion](https://github.com/Beate-Suy-Zhang/DCEvo)**(CVPR 2025)**
