@@ -59,7 +59,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2025** | [Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model](https://github.com/Leiii-Cao/Text-DiFuse) 
  **2025** | [A degradation-aware guided fusion network for infrared and visible image](https://github.com/wang-x-1997/DAFusion) 
  **2025** | [SAM-guided multi-level collaborative Transformer for infrared and visible image fusion](https://github.com/lxq-jnu/SpTFuse) 
- **2025** | [SDSFusion: A Semantic-Aware Infrared and Visible Image Fusion Network for Degraded Scenes](https://github.com/Liling-yang/SDSFusion) 🤗🤗🤗 **(TIP 2025)**
+ **2025** | [SDSFusion: A Semantic-Aware Infrared and Visible Image Fusion Network for Degraded Scenes](https://github.com/Liling-yang/SDSFusion)  **(TIP 2025)**
  **2024** | [TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion](https://github.com/AWCXV/TextFusion) 🤗🤗🤗
  **2024** | [Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion](https://github.com/XunpengYi/Text-IF) 🤗🤗🤗🤗
  **2024** | [LENFusion: A Joint Low-Light Enhancement and Fusion Network for Nighttime Infrared and Visible Image Fusion](https://github.com/Liling-yang/LENFsuion) 🤗🤗🤗
