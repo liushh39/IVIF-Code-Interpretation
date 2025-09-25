@@ -5,6 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
+🚩 **`2025.9.25` Add ControlFusion[NeurIPS 2025]** <br>
 🚩 **`2025.8.13` Add OmniFuse，PIDFusion, RDMFuse, RPFNet** <br>
 🚩 **`2025.8.7` Add GrFormer, PFCFuse, ITFuse, SDCFusion, SDSFusion, LENFsuion, PromptFusion, MDA and a survey!** <br>
 🚩 **`2025.7.31` Add GuideFuse, DDBFusion** <br>
@@ -45,6 +46,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **Year** | **Title** 
  :-: | :-  
  **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) 🤗🤗🤗🤗🤗
+ **2025** | [ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts](https://github.com/Linfeng-Tang/ControlFusion) **NeurIPS 2025**🤗🤗🤗🤗
  **2025** | [OmniFuse: Composite Degradation-Robust Image Fusion With Language-Driven Semantics](https://github.com/HaoZhang1018/OmniFuse)**(TPAMI 2025)**
  **2025** | [RPFNet: Residual Prior-driven Frequency-aware Network for Image Fusion](https://github.com/wang-x-1997/RPFNet)**(ACM MM 2025)**
  **2025** | [PID Controller-Driven Network for Image Fusion](https://github.com/wang-x-1997/PIDFusion)**(TMM 2025)** 🤗🤗🤗🤗
