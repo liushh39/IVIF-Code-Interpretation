@@ -5,6 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
+🚩 **`2025.11.4` Add URFusion[TIP 2025], SIBA[ICCV 2025], RIS-Fuse[ICCV 2025], TITA[ICCV 2025]** <br>
 🚩 **`2025.9.25` Add ControlFusion[NeurIPS 2025]** <br>
 🚩 **`2025.8.13` Add OmniFuse，PIDFusion, RDMFuse, RPFNet** <br>
 🚩 **`2025.8.7` Add GrFormer, PFCFuse, ITFuse, SDCFusion, SDSFusion, LENFsuion, PromptFusion, MDA and a survey!** <br>
@@ -42,10 +43,14 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2023** | [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10088423) 🤗🤗
  **2023** | [基于深度学习的图像融合方法综述](http://www.cjig.cn//html/2023/1/20230102.htm) 🤗🤗
 
-## 2. Latest or novel IVIF method
+## 2. Latest IVIF method
  **Year** | **Title** 
  :-: | :-  
- **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) 🤗🤗🤗🤗🤗
+ **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) 🤗🤗🤗🤗
+ **2025** | [RIS-Fuse: Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion](https://github.com/GMY628/RIS-Fuse)**(TIP 2025)** 🤗🤗🤗🤗
+ **2025** | [TITA: About: Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion](https://github.com/huxingyuabc/TITA)**(TIP 2025)** 🤗🤗🤗🤗
+ **2025** | [SIBA: The Source Image is the Best Attention for Infrared and Visible Image Fusion](https://github.com/Afreshbird/SIBA)**(TIP 2025)** 🤗🤗🤗🤗
+ **2025** | [URFusion: Unsupervised Unified Degradation-Robust Image Fusion Network](https://github.com/hanna-xu/URFusion)**(TIP 2025)** 🤗🤗🤗🤗
  **2025** | [ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts](https://github.com/Linfeng-Tang/ControlFusion) **NeurIPS 2025**🤗🤗🤗🤗
  **2025** | [OmniFuse: Composite Degradation-Robust Image Fusion With Language-Driven Semantics](https://github.com/HaoZhang1018/OmniFuse)**(TPAMI 2025)**
  **2025** | [RPFNet: Residual Prior-driven Frequency-aware Network for Image Fusion](https://github.com/wang-x-1997/RPFNet)**(ACM MM 2025)**
