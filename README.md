@@ -5,6 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
+🚩 **`2026.1.3`** <br>
 🚩 **`2025.11.4` Add URFusion[TIP 2025], SIBA[ICCV 2025], RIS-Fuse[ICCV 2025], TITA[ICCV 2025]** <br>
 🚩 **`2025.9.25` Add ControlFusion[NeurIPS 2025]** <br>
 🚩 **`2025.8.13` Add OmniFuse，PIDFusion, RDMFuse, RPFNet** <br>
@@ -45,30 +46,32 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 
 ## 2. 2026 IVIF method
  **Publication** | **Title** 
+ :-: | :-  
+ **Imformation Fusion** | [GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion](https://github.com/Shaoyun2023/GrFormer)
 
 ## 3. 2025 IVIF method
- **Year** | **Title** 
+ **Publication** | **Title** 
  :-: | :-  
- **2025** | [RIS-Fuse: Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion](https://github.com/GMY628/RIS-Fuse)**(TIP 2025)** 🤗🤗🤗🤗
- **2025** | [TITA: About: Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion](https://github.com/huxingyuabc/TITA)**(TIP 2025)** 🤗🤗🤗🤗
- **2025** | [SIBA: The Source Image is the Best Attention for Infrared and Visible Image Fusion](https://github.com/Afreshbird/SIBA)**(TIP 2025)** 🤗🤗🤗🤗
- **2025** | [URFusion: Unsupervised Unified Degradation-Robust Image Fusion Network](https://github.com/hanna-xu/URFusion)**(TIP 2025)** 🤗🤗🤗🤗
- **2025** | [ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts](https://github.com/Linfeng-Tang/ControlFusion) **NeurIPS 2025**🤗🤗🤗🤗
- **2025** | [OmniFuse: Composite Degradation-Robust Image Fusion With Language-Driven Semantics](https://github.com/HaoZhang1018/OmniFuse)**(TPAMI 2025)**
- **2025** | [RPFNet: Residual Prior-driven Frequency-aware Network for Image Fusion](https://github.com/wang-x-1997/RPFNet)**(ACM MM 2025)**
- **2025** | [PID Controller-Driven Network for Image Fusion](https://github.com/wang-x-1997/PIDFusion)**(TMM 2025)** 🤗🤗🤗🤗
+ **TIP** | [RIS-Fuse: Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion](https://github.com/GMY628/RIS-Fuse)**(TIP 2025)** 🤗🤗🤗🤗
+ **TIP** | [TITA: About: Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion](https://github.com/huxingyuabc/TITA)**(TIP 2025)** 🤗🤗🤗🤗
+ **TIP** | [SIBA: The Source Image is the Best Attention for Infrared and Visible Image Fusion](https://github.com/Afreshbird/SIBA)**(TIP 2025)** 🤗🤗🤗🤗
+ **TIP** | [URFusion: Unsupervised Unified Degradation-Robust Image Fusion Network](https://github.com/hanna-xu/URFusion)**(TIP 2025)** 🤗🤗🤗🤗
+ **NeurIPS** | [ControlFusion: A Controllable Image Fusion Framework with Language-Vision Degradation Prompts](https://github.com/Linfeng-Tang/ControlFusion) **NeurIPS 2025**🤗🤗🤗🤗
+ **TPAMI** | [OmniFuse: Composite Degradation-Robust Image Fusion With Language-Driven Semantics](https://github.com/HaoZhang1018/OmniFuse)**(TPAMI 2025)**
+ **ACM MM** | [RPFNet: Residual Prior-driven Frequency-aware Network for Image Fusion](https://github.com/wang-x-1997/RPFNet)**(ACM MM 2025)**
+ **TMM** | [PID Controller-Driven Network for Image Fusion](https://github.com/wang-x-1997/PIDFusion)**(TMM 2025)** 🤗🤗🤗🤗
  **2025** | [RDMFuse: A Retinex Decomposition Model-Based Deep Framework for Infrared and Visible Image Fusion](https://github.com/wang-x-1997/RDMFuse)
- **2025** | [GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion](https://github.com/Shaoyun2023/GrFormer)**(Imformation Fusion 2026)**
- **2025** | [DDBFusion: An unified image decomposition and fusion framework based on dual decomposition and B ́ezier curves](https://github.com/Yukarizz/DDBFusion)**(Imformation Fusion 2025)**
- **2025** | [DCEvo: Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion](https://github.com/Beate-Suy-Zhang/DCEvo)**(CVPR 2025)**
- **2025** | [Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond](https://github.com/RollingPlain/SAGE_IVIF)**(CVPR 2025)**
- **2025** | [Task-driven Image Fusion with Learnable Fusion Loss](https://github.com/HaowenBai/TDFusion)**(CVPR 2025)**
- **2025** | [MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training](https://github.com/Henry-Lee-real/MaeFuse)🤗🤗🤗🤗 **(TIP 2025)**
- **2025** | [GIFNet: One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion](https://github.com/AWCXV/GIFNet) 🤗🤗🤗🤗 **(CVPR 2025)**
+ **Imformation Fusion** | [DDBFusion: An unified image decomposition and fusion framework based on dual decomposition and B ́ezier curves](https://github.com/Yukarizz/DDBFusion)**(Imformation Fusion 2025)**
+ **CVPR** | [DCEvo: Discriminative Cross-Dimensional Evolutionary Learning for Infrared and Visible Image Fusion](https://github.com/Beate-Suy-Zhang/DCEvo)**(CVPR 2025)**
+ **CVPR** | [Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond](https://github.com/RollingPlain/SAGE_IVIF)**(CVPR 2025)**
+ **CVPR** | [Task-driven Image Fusion with Learnable Fusion Loss](https://github.com/HaowenBai/TDFusion)**(CVPR 2025)**
+ **TIP** | [MaeFuse: Transferring Omni Features with Pretrained Masked Autoencoders for Infrared and Visible Image Fusion via Guided Training](https://github.com/Henry-Lee-real/MaeFuse)🤗🤗🤗🤗 **(TIP 2025)**
+ **CVPR** | [GIFNet: One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion](https://github.com/AWCXV/GIFNet) 🤗🤗🤗🤗 **(CVPR 2025)**
  **2025** | [Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model](https://github.com/Leiii-Cao/Text-DiFuse) 
  **2025** | [A degradation-aware guided fusion network for infrared and visible image](https://github.com/wang-x-1997/DAFusion) 
  **2025** | [SAM-guided multi-level collaborative Transformer for infrared and visible image fusion](https://github.com/lxq-jnu/SpTFuse) 
- **2025** | [SDSFusion: A Semantic-Aware Infrared and Visible Image Fusion Network for Degraded Scenes](https://github.com/Liling-yang/SDSFusion)  **(TIP 2025)**
+ **TIP** | [SDSFusion: A Semantic-Aware Infrared and Visible Image Fusion Network for Degraded Scenes](https://github.com/Liling-yang/SDSFusion)  **(TIP 2025)**
+ **TIP** | [Spatial-Frequency Enhanced Mamba for Multi-Modal Image Fusion](https://github.com/SunHui1216/SFMFusion)🤗🤗🤗🤗
 
 ## 4. 2024 IVIF method
  **Year** | **Title** 
