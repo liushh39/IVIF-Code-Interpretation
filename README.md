@@ -43,10 +43,12 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2023** | [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10088423) 🤗🤗
  **2023** | [基于深度学习的图像融合方法综述](http://www.cjig.cn//html/2023/1/20230102.htm) 🤗🤗
 
-## 2. Latest IVIF method
+## 2. 2026 IVIF method
+ **Publication** | **Title** 
+
+## 3. 2025 IVIF method
  **Year** | **Title** 
  :-: | :-  
- **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) 🤗🤗🤗🤗
  **2025** | [RIS-Fuse: Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion](https://github.com/GMY628/RIS-Fuse)**(TIP 2025)** 🤗🤗🤗🤗
  **2025** | [TITA: About: Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion](https://github.com/huxingyuabc/TITA)**(TIP 2025)** 🤗🤗🤗🤗
  **2025** | [SIBA: The Source Image is the Best Attention for Infrared and Visible Image Fusion](https://github.com/Afreshbird/SIBA)**(TIP 2025)** 🤗🤗🤗🤗
@@ -67,6 +69,11 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2025** | [A degradation-aware guided fusion network for infrared and visible image](https://github.com/wang-x-1997/DAFusion) 
  **2025** | [SAM-guided multi-level collaborative Transformer for infrared and visible image fusion](https://github.com/lxq-jnu/SpTFuse) 
  **2025** | [SDSFusion: A Semantic-Aware Infrared and Visible Image Fusion Network for Degraded Scenes](https://github.com/Liling-yang/SDSFusion)  **(TIP 2025)**
+
+## 4. 2024 IVIF method
+ **Year** | **Title** 
+ :-: | :-  
+ **2024** | [AGMFusion: A Real-Time End-to-End Infrared and Visible Image Fusion Network Based on Adaptive Guidance Module](https://github.com/liushh39/AGMFusion) 🤗🤗🤗🤗
  **2024** | [TextFusion: Unveiling the Power of Textual Semantics for Controllable Image Fusion](https://github.com/AWCXV/TextFusion) 🤗🤗🤗
  **2024** | [Text-IF: Leveraging Semantic Text Guidance for Degradation-Aware and Interactive Image Fusion](https://github.com/XunpengYi/Text-IF) 🤗🤗🤗🤗
  **2024** | [LENFusion: A Joint Low-Light Enhancement and Fusion Network for Nighttime Infrared and Visible Image Fusion](https://github.com/Liling-yang/LENFsuion) 🤗🤗🤗
@@ -91,7 +98,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2023** | [SRAFusion: Semantic Region Adaptive Fusion of Infrared and Visible Images via Dual-DeepLab Guidance](https://github.com/WenziCao/SRAFusion)
  **2022** | [Fusion from Decomposition: A Self-Supervised Decomposition Approach for Image Fusion](https://github.com/erfect2020/DecompositionForFusion)
  
-## 3. AE-based IVIF method
+## 5. AE-based IVIF method
  **Year** | **Title** 
  :-: | :-  
  **2023** | [LRRNet: A Novel Representation Learning Guided Fusion Framework for Infrared and Visible Images](https://github.com/hli1221/imagefusion-LRRNet) 🤗🤗🤗
@@ -117,7 +124,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2019** | [Densefuse: A Fusion Approach to Infrared and Visible Images](https://github.com/hli1221/imagefusion_densefuse) 🤗🤗
  **2018** | [Infrared and Visible Image Fusion using a Deep Learning Framework](https://github.com/hli1221/imagefusion_deeplearning)
 
-## 4. CNN-based IVIF method
+## 6. CNN-based IVIF method
 
  **Year** | **Title** 
  :-: | :-  
@@ -152,7 +159,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2020** | [Rethinking the image fusion: A fast unified image fusion network based on proportional maintenance of gradient and intensity](https://github.com/HaoZhang1018/PMGI_AAAI2020)
  **2020** | [U2Fusion: A Unified Unsupervised Image Fusion Network](https://github.com/hanna-xu/U2Fusion) 🤗🤗
 
-## 5. GAN-based IVIF method
+## 7. GAN-based IVIF method
 
  **Year** | **Title** 
  :-: | :-  
@@ -170,7 +177,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2019** | [FusionGAN: A generative adversarial network for infrared and visible image fusion](https://github.com/jiayi-ma/FusionGAN)
  **2019** | [DDcGAN:infrared and visible image fusion via dual-discriminator conditional generative adversarial network](https://github.com/hanna-xu/DDcGAN)
 
-## 6. Transformer-based IVIF method
+## 8. Transformer-based IVIF method
 
  **Year** | **Title** 
  :-: | :-  
@@ -187,16 +194,16 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2022** | [SwinFusion: Cross-domain Long-range Learning for General Image Fusion via Swin Transformer](https://github.com/Linfeng-Tang/SwinFusion)
  **2022** | [Image fusion transformer](https://github.com/Vibashan/Image-Fusion-Transformer)
 
-## 7. Mamba-based IVIF method
+## 9. Mamba-based IVIF method
  **Year** | **Title** 
  :-: | :-  
  **2024** | [MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion](https://github.com/Lizhe1228/MambaDFuse)
 
-## 8. Datasets
+## 10. Datasets
 [TNO](https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029), [RoadScene](https://github.com/hanna-xu/RoadScene), [M3FD](https://github.com/JinyuanLiu-CV/TarDAL), [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/), [MSRS](https://github.com/Linfeng-Tang/MSRS), [LLVIP](https://github.com/bupt-ai-cz/LLVIP),
  [IVS](https://github.com/xiehousheng/IVS_data), [HDO](https://github.com/xiehousheng/IVS_data), [AVIID](https://github.com/silver-hzh/Averial-visible-to-infrared-image-translation),
 
-## 9. Evaluation
+## 11. Evaluation
 [Excellent code](https://github.com/Linfeng-Tang/Evaluation-for-Image-Fusion)
 
 If you have any other questions about the IVIF, please email liushh39@mail2.sysu.edu.cn !!!
