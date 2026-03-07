@@ -5,6 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
+🚩 **`2026.3.7` Add DiTFuse[TPAMI 2026]** <br>
 🚩 **`2026.1.3`** <br>
 🚩 **`2025.11.4` Add URFusion[TIP 2025], SIBA[ICCV 2025], RIS-Fuse[ICCV 2025], TITA[ICCV 2025]** <br>
 🚩 **`2025.9.25` Add ControlFusion[NeurIPS 2025]** <br>
@@ -47,6 +48,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 ## 2. 2026 IVIF method
  **Publication** | **Title** 
  :-: | :-  
+ **TPAMI** | [Towards Unified Semantic and Controllable Image Fusion: A Diffusion Transformer Approach](https://github.com/Henry-Lee-real/DiTFuse)**(TPAMI 2026)** 🤗🤗🤗🤗
  **Imformation Fusion** | [GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion](https://github.com/Shaoyun2023/GrFormer)
 
 ## 3. 2025 IVIF method
