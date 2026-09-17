@@ -5,6 +5,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 (**Survey, Code, Dataset, Evaluation and more**).
 
 :running: **keep updating.** :running:  
+🚩 **`2026.9.17` Add 2026 CVPR/AAAI/ICML/ECCV/ACM MM/TPAMI/TIP/TNNLS/TMM/IJCV/InFFus/PR  50+ methods** <br>
 🚩 **`2026.1.3`** <br>
 🚩 **`2025.11.4` Add URFusion[TIP 2025], SIBA[ICCV 2025], RIS-Fuse[ICCV 2025], TITA[ICCV 2025]** <br>
 🚩 **`2025.9.25` Add ControlFusion[NeurIPS 2025]** <br>
@@ -43,10 +44,64 @@ Provide a summary of open-source deep learning-based infrared and visible image 
  **2024** | [Infrared and Visible Image Fusion: From Data Compatibility to Task Adaption](https://ieeexplore.ieee.org/abstract/document/10812907)🤗🤗
  **2023** | [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10088423) 🤗🤗
  **2023** | [基于深度学习的图像融合方法综述](http://www.cjig.cn//html/2023/1/20230102.htm) 🤗🤗
-
+ 
 ## 2. 2026 IVIF method
  **Publication** | **Title** 
  :-: | :-  
+ **CVPR** | [CLDyN: Customized Fusion: A Closed-Loop Dynamic Network for Adaptive Multi-Task-Aware Infrared-Visible Image Fusion](https://github.com/YR0211/CLDyN)**(CVPR 2026 Oral)**
+ **CVPR** | [FusionRegister: Every Infrared and Visible Image Fusion Deserves Registration](https://github.com/bociic/FusionRegister)**(CVPR 2026)**
+ **CVPR** | [Beyond Strict Pairing: Arbitrarily Paired Training for High-Performance Infrared and Visible Image Fusion](https://github.com/yanglinDeng/IVIF_unpair)**(CVPR 2026)**
+ **CVPR** | [EVAFusion: Bridging Human Evaluation to Infrared and Visible Image Fusion](https://github.com/ALKA-Wind/EVAFusion)**(CVPR 2026)**
+ **CVPR** | [DRFusion: Degradation-Robust Fusion: An Efficient Degradation-Aware Diffusion Framework for Multimodal Image Fusion in Arbitrary Degradation Scenarios](https://github.com/YShi-cool/DRFusion)**(CVPR 2026)**
+ **CVPR** | [ReCoFuse: Ultra-Robust Image Fusion via Restorative Multi-Modal Diffusion Reciprocal Coupling](https://github.com/HaoZhang1018/ReCoFuse)**(CVPR 2026)**
+ **CVPR** | [RegionFuse: Region-Adaptive Pixel Distribution Learning for Infrared and Visible Image Fusion](https://github.com/DarkIceField/RegionFuse)**(CVPR 2026)**
+ **CVPR** | [DPOFusion: Fusion in Your Way: Aligning Image Fusion with Heterogeneous Demands via Direct Preference Optimization](https://github.com/suweijian1996/DPOFusion)**(CVPR 2026)**
+ **CVPR** | [UniFusion: A Unified Image Fusion Framework with Robust Representation and Source-Aware Preservation](https://github.com/dusongcheng/UniFusion)**(CVPR 2026)**
+ **CVPR** | [DECC: More Than Meets the Eye: A Unified Image Fusion Framework via Semantic-Pixel Entropy Trade-off for Zero-Shot Generalization](https://github.com/XiaoW-Liu/DECC)**(CVPR 2026)**
+ **CVPR** | [Intervention-Stable Fusion: Multi-Modal Image Fusion via Intervention-Stable Feature Learning](https://github.com/wang-x-1997/Multi-Modal-Image-Fusion-via-Intervention-Stable-Feature-Learning)**(CVPR 2026)**
+ **CVPR** | [MagicFuse: Single Image Fusion for Visual and Semantic Reinforcement](https://github.com/zhayanping/MagicFuse)**(CVPR 2026)**
+ **CVPR** | [DCMIF: Missing No More: Dictionary-Guided Cross-Modal Image Fusion under Missing Infrared](https://github.com/harukiv/DCMIF)**(CVPR 2026)**
+ **CVPR** | [VideoFusion: A Spatio-Temporal Collaborative Network for Multi-modal Video Fusion and Restoration](https://github.com/Linfeng-Tang/VideoFusion)**(CVPR 2026, video fusion)**
+ **CVPR** | [SDMFusion: Streaming Diffusion Model for Fast Infrared and Visible Video Fusion](https://github.com/DandanYoung/SDMFusion)**(CVPR 2026, video fusion)**
+ **AAAI** | [RFC: Robust Fusion Controller: Degradation-Aware Image Fusion with Fine-Grained Language Instructions](https://github.com/HaoZhang1018/RFC)**(AAAI 2026 Oral)**
+ **AAAI** | [UP-Fusion: Text-guided Channel Perturbation and Pre-trained Knowledge Integration for Unified Multi-modality Image Fusion](https://github.com/ixilai/UP-Fusion)**(AAAI 2026)**
+ **AAAI** | [CtrlFuse: Mask-Prompt Guided Controllable Infrared and Visible Image Fusion](https://github.com/Sevryy/CtrlFuse)**(AAAI 2026)**
+ **AAAI** | [ControlFuse: Instruction-Guided Multi-Granularity Controllable Image Fusion](https://github.com/zhaolb4080/ControlFuse)**(AAAI 2026)**
+ **AAAI** | [MdaIF: Robust One-Stop Multi-Degradation-Aware Image Fusion with Language-Driven Semantics](https://github.com/doudou845133/MdaIF)**(AAAI 2026)**
+ **AAAI** | [AIDFusion: Revisiting Network Inertia: Dynamic Inertia Inhibition Coupled Multidimensional Periodicity for Infrared and Visible Image Fusion](https://github.com/YufengChen1113/AIDFusion)**(AAAI 2026)**
+ **AAAI** | [HMMF: A Hybrid Space Model for Misaligned Multi-modality Image Fusion](https://github.com/xiao-eee/HMMF)**(AAAI 2026)**
+ **ICML** | [IDEAL: Difference-Aware Decision Learning for Multimodal Image Fusion](https://github.com/Pon915/IDEAL-main)**(ICML 2026)**
+ **ICML** | [TEDFusion: Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space](https://github.com/Shaoyun2023/TEDFusion)**(ICML 2026)**
+ **ICML** | [MobileFusion: Mobile-Friendly Infrared and Visible Image Fusion via Structural Re-parameterization](https://github.com/sucessfullys/MobileFusion)**(ICML 2026)**
+ **ICML** | [1D-Fusion: From 2D Grids to 1D Tokens: Reforming Shared Representations for Multimodal Image Fusion](https://zju-xyc.github.io/1D-Fusion-Project-Page/)**(ICML 2026)**
+ **ECCV** | [P²Fusion: Prompt-based Progressive Infrared-Visible Image Fusion via Dual-Prior Distillation](https://github.com/YiShi99/P2Fusion)**(ECCV 2026)**
+ **ECCV** | [MAVFusion: Efficient Infrared and Visible Video Fusion via Motion-Aware Sparse Interaction](https://github.com/ixilai/MAVFusion)**(ECCV 2026, video fusion)**
+ **ACM MM** | [ConFusion: Continuous Fusion Space Learning for Fine-Grained Controllable Infrared and Visible Image Fusion](https://github.com/HeyufeiAnto/Confusion)**(ACM MM 2026)**
+ **TPAMI** | [EvoFuse: Symbiotic Evolutionary Learning for Task-Adaptive Infrared and Visible Image Fusion](https://github.com/Beate-Suy-Zhang/EvoFuse)**(TPAMI 2026)**
+ **TPAMI** | [CDTFusion: Crossing Domain and Task for Infrared and Visible Image Fusion](https://github.com/wangwenbo26/CDTFusion)**(TPAMI 2026)**
+ **TPAMI** | [Mask-DiFuser: A Masked Diffusion Model for Unified Unsupervised Image Fusion](https://github.com/Linfeng-Tang/Mask-DiFuser)**(TPAMI 2026)**
+ **TPAMI** | [DiTFuse: Towards Unified Semantic and Controllable Image Fusion: A Diffusion Transformer Approach](https://github.com/Henry-Lee-real/DiTFuse)**(TPAMI 2026)**
+ **TIP** | [DSPFusion: Image Fusion via Degradation and Semantic Dual-Prior Guidance](https://github.com/Linfeng-Tang/DSPFusion)**(TIP 2026)**
+ **TIP** | [LTOFusion: A Learning-to-Optimize Framework with Flow Matching for Unsupervised Image Fusion](https://github.com/HeDan-11/LTOFusion)**(TIP 2026)**
+ **TIP** | [SSVIF: Self-Supervised Segmentation-Oriented Visible and Infrared Image Fusion](https://github.com/CnoyZ/SSVIF)**(TIP 2026)**
+ **TNNLS** | [LDFusion: Infrared and Visible Image Fusion with Language-Driven Loss and Knowledge Distillation](https://github.com/wyhlaowang/LDFusion)**(TNNLS 2026)**
+ **TMM** | [AdaSFFuse: Task-Generalized Adaptive Cross-Domain Learning for Multimodal Image Fusion](https://github.com/Zhen-yu-Liu/AdaSFFuse)**(TMM 2026)**
+ **TMM** | [EGMT: Entity-Guided Multi-Task Learning for Infrared and Visible Image Fusion](https://github.com/wyshao-01/EGMT)**(TMM 2026)**
+ **IJCV** | [CRTFS: A Color Information Driven Collaborative Training of Dual Task Parallel Network for Visible and Thermal Infrared Image Fusion and Saliency Object Detection](https://github.com/Yukarizz/CRTFS)**(IJCV 2026)**
+ **Imformation Fusion** | [GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion](https://github.com/Shaoyun2023/GrFormer)**(Imformation Fusion 2026)**
+ **Imformation Fusion** | [AWFusion: All-weather Multi-Modality Image Fusion: Unified Framework and 100k Benchmark](https://github.com/ixilai/AWFusion)**(Imformation Fusion 2026)**
+ **Imformation Fusion** | [SGDFuse: SAM-guided Diffusion Model for High-Fidelity Infrared and Visible Image Fusion](https://github.com/boshizhang123/SGDFuse)**(Imformation Fusion 2026)**
+ **Imformation Fusion** | [SPGFusion: Semantic Prior Guided Infrared and Visible Image Fusion via Pretrained Vision Models](https://github.com/Huiqin-Zhang/SPGFusion)**(Imformation Fusion 2026)**
+ **Imformation Fusion** | [RQCMFuse: A Reduced Biquaternion-Driven Collaborative Modeling Network of Infrared Saliency and Visible Color-Detail for Infrared and Visible Image Fusion](https://github.com/PPBBJL/RQCMFuse)**(Imformation Fusion 2026)**
+ **Pattern Recognition** | [SETFusion: A Semantic Transformer for Infrared and Visible Image Fusion](https://github.com/tthinking/SETFusion)**(Pattern Recognition 2026)**
+ **Pattern Recognition** | [CUDiff: Consistency and Uncertainty Guided Conditional Diffusion for Infrared and Visible Image Fusion](https://github.com/VCMHE/CUDiff)**(Pattern Recognition 2026)**
+ **Pattern Recognition** | [GDAFusion: Generative Representation Learning with Information Disentanglement and Global Alignment for Infrared and Visible Image Fusion](https://github.com/Scientist888-star/GDAFusion)**(Pattern Recognition 2026)**
+ **Image and Vision Computing** | [MDCFusion: Enhancing Infrared and Visible Image Fusion through Multi-Scale Dense Convolutional Sparse Coding](https://github.com/junhaohe777/MDCFusion)**(Image and Vision Computing 2026)**
+ **Engineering Applications of AI** | [ALRTFusion: An Anisotropic Low-Rank Self-Attention Mechanism for Infrared and Visible Image Fusion](https://github.com/XiaoW-Liu/ALRTFusion)**(Engineering Applications of AI 2026)**
+ **Expert Systems with Applications** | [DAMFusion: Cross-modal Image Fusion via Dual Attention and Mamba](https://github.com/youdianlong/DAMFusion)**(Expert Systems with Applications 2026)**
+ **Expert Systems with Applications** | [CAWM-Mamba: A Unified Model for Infrared-Visible Image Fusion and Compound Adverse Weather Restoration](https://github.com/Feecuin/CAWM-Mamba)**(Expert Systems with Applications 2026)**
+ **arXiv** | [AMG-Fuse: Multi-modality Image Fusion under Adverse Weather: Mask-Guided Feature Restoration and Interaction](https://github.com/ixilai/AMG-Fuse)**(arXiv 2026)**
+ **arXiv** | [RoES: Rotational Equivariant Selective-frequency Fusion for Multimodal Images](https://github.com/BryceLosky/RoES-Fusion)**(arXiv 2026)**
  **Imformation Fusion** | [GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion](https://github.com/Shaoyun2023/GrFormer)
 
 ## 3. 2025 IVIF method
